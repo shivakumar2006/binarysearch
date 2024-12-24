@@ -20,5 +20,5 @@ func binarySearch(array []int, x int) int {
 			l = l + 1
 		}
 	}
-
+	return -1
 }
